@@ -1,0 +1,8 @@
+*.user
+*.cache
+bin/
+obj/
+*.opensdf
+*.suo
+*.sdf
+ipch/
